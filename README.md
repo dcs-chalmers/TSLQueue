@@ -6,7 +6,7 @@ The artifact design is based on the adapted version of [ASCYLIB framework](https
 Memory is managed using [ssmem library](https://github.com/LPD-EPFL/ssmem), a simple object-based memory allocator with epoch-based garbage collection.
 
 ## Related Publication
-TSLQueue: An Efficient Lock-free Design for Priority Queues. To appear in Euro-par 2021 proceedings  
+TSLQueue: An Efficient Lock-free Design for Priority Queues. https://link.springer.com/chapter/10.1007/978-3-030-85665-6_24
 ## Data structure implementations
 The artifact contains three implantations of a priority queue abstract data structure:
 * TSLQueue:
